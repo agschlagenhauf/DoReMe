@@ -1,0 +1,3 @@
+subid	 trial	 block	 startPred	 prediction	 reward	 PE	 RTpred	 SD	 EV	 BeginITI	 CueOnset	 LogPrediction	 Feedback	 OnsetTooSlow	 BaselineStart	 
+01	 1	 1	 64	 30	 42	 12	 1.790000e+00	 15	 35	 1.595615e+04	 1.595803e+04	 1.596087e+04	 1.596482e+04	 NaN	 1.595102e+04	 
+01	 2	 1	 32	 83	 37	 -46	 3.500000e+00	 15	 35	 1.596587e+04	 1.596837e+04	 1.597288e+04	 1.597593e+04	 NaN	 1.595102e+04	 
